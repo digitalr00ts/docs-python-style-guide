@@ -6,6 +6,7 @@ Coding Guide For digitalr00ts
    :maxdepth: 2
    :caption: Contents:
 
+   documentation/index
    python/index
 
 

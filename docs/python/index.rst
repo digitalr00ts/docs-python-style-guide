@@ -7,4 +7,3 @@ Python Style Guide
    :caption: Contents:
 
    coding
-   documentation
