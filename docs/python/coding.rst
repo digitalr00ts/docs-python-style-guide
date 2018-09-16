@@ -1,7 +1,6 @@
-============
+############
 Coding Style
-============
-
+############
 
 These are the guiding documentation for the digitalr00ts style guide, ordered by precedence:
 
