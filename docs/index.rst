@@ -1,13 +1,12 @@
 ###################################
-Python Style Guide For digitalr00ts
+Coding Guide For digitalr00ts
 ###################################
 
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
-   coding
-   documentation
+   python/index
 
 
 Indices and tables
